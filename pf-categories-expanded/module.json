@@ -1,0 +1,14 @@
+{
+	"name": "pf-categories-expanded",
+	"title": "PF Categories Expanded",
+	"description": "Adds Veil, Mythic, Resource, and Note Categories, and adds the Psionic Disciplines and Path of War Traditions to the list of valid spell schools",
+	"version": "1.0.0",
+	"authors": [{
+		"name": "Elisianthus"
+	}],
+	"esmodules": ["categories-expanded.js"],
+	"compatibility": {
+		"minimum": "9",
+		"verified": "10.285"
+	}
+}
